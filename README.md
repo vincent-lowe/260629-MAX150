@@ -4,6 +4,10 @@ Vincent Lowe
 
 vlowe@salesforce.com
 
+Virtual Machine Endpoint: https://use.cloudshare.com/Class/ab6rz
+
+Virtual Machine Passphrase: Constantin the Amazing Hamster
+
 Trailhead Academy: https://trailheadacademy.salesforce.com/my-learning
 
 Survey Link: https://www.research.net/r/trailheadacademy
