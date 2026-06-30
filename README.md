@@ -40,7 +40,9 @@ MuleSoft Pricing & Support: https://www.mulesoft.com/anypoint-pricing
 |Dos Oruguitas|Steven Joseph|from the movie Encanto|
 |Lazybones|Leon Redbone||
 |The City of New Orleans|Arlo Guthrie||
-
+|How Can You Mend a Broken Heart|Al Green||
+|Here We Go Again|Ray Charles and Norah Jones||
+|Easy Money|Rebecca Loebe||
 
 
 
